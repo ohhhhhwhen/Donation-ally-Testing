@@ -1,0 +1,90 @@
+#jumbo {
+    background-color: black;
+    background-size: inherit;
+    background-repeat: no-repeat;
+    color: white;
+    width: 100%;
+}
+
+.card {
+    width: 18rem;
+}
+
+.home-div, .home-news, .about-div {
+    padding-top: 30px;
+}
+
+.home-news {
+    margin-top: 40px;
+}
+
+.home_background1 {
+    background-color: white;
+}
+
+.home_background2 {
+    background-color: #B09A70;
+}
+
+.home_background3 {
+    background-color: white;
+}
+
+.home_background4 {
+    background-color: #163d26;
+}
+
+.page_inner_div {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+/* contact page*/
+
+#contact_form {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.contact_lower_div {
+    background-color: #343a40;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    text-align: center;
+    font-family: "Raleway";
+}
+
+#contact_photo {
+    padding: 10px;
+    opacity: 1;
+}
+
+#contact_photo:hover {
+    opacity: 0.3;
+}
+
+/* Contact page upper div - Creator and Founder */
+
+#services {
+    background-color: #009688;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+/* Contact icons - FOOTER */
+
+.contact_icon {
+    padding-right: 20px;
+}
+
+/* Donation page */
+
+#donate_grid {
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
